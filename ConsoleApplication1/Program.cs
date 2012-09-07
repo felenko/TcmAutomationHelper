@@ -38,7 +38,7 @@ namespace ConsoleApplication1
            // //TcmAutomationHelper.BuildDiagramForDate(wnd, new DateTime(2012, 9, 2));
            // //TcmAutomationHelper.FileSave(wnd, @"C:\2012_09_01.bmp");
             //NativeAPI.PostMessage((int)wnd, NativeAPI.WM_COMMAND, 4, (IntPtr)0);
-            NativeAPI.ShowWindow((IntPtr) 0x20192, NativeAPI.ShowWindowCommands.Normal);
+            //NativeAPI.ShowWindow((IntPtr) 0x20192, NativeAPI.ShowWindowCommands.Normal);
         }
     }
 }
